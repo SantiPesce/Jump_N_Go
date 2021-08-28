@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Collider
+  - Fire
+  - Restorer
+  - Re
+  - Juego2
+  - Enemy
+  - EnemyDestr
+  - FireDstrys
+  - Block
+  - Castillo
+  - Door
+  - CollEnd
+  - Coin
+  - Block1
+  - ColCrEnem
+  - EndCrEnem
+  - CollEnd2
+  - Pinches
+  - CollEndT
+  - PBox
+  - Patineta
+  - CollEnd3
+  - Degr
+  - "CollEnd\xBF"
+  - EntrLvlP
+  - CollEndP
+  - CollEndL
+  - ColEnemVJump
+  - EntrLvl?
+  - CollEnd4
+  - EntrLvlL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Giugj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1766181123
+    locked: 0
+  - name: Interface
+    uniqueID: 1475051267
+    locked: 0
+  - name: Pausa
+    uniqueID: 150412213
+    locked: 0
